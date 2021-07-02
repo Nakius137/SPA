@@ -1,13 +1,13 @@
 import React from 'react'
-
+import '../styles/Contact.css'
 
 class Contact extends React.Component {
 
     render() {
         return (
-            <div className="container">
-             <h3>Kontakt</h3>
-             <p>facebook: haft włoszakowice
+            <div className="Contact-container">
+              <h2>Kontakt</h2>
+              <p>facebook: haft włoszakowice
                 <br />
                 e-mail: haftwloszakowice@gmail.com
                 <br />

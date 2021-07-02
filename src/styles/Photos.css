@@ -1,0 +1,33 @@
+.img {
+    width: 400px;
+    height: 400px;
+    
+}
+
+.photo{
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family:  Helvetica, sans-serif;
+    padding: 10px;
+    height: 250px;
+    position: relative;
+    top: 25vh;
+    clear: left;
+}
+
+.sliderimg{
+    width: 50%;
+    height: 700px;
+    object-fit: cover;
+  }
+
+.gallery{
+    background-color: white;
+    padding: 10px;
+    height: 700px;
+    position: relative;
+    top: 10vh;
+    padding-left: 60vh;
+    clear: left;
+}

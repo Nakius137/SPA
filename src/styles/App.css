@@ -1,0 +1,6 @@
+body { 
+    background-image: url("../images/site_background.jpg");
+    background-repeat: no-repeat;
+    background-size: 200vh;
+    height: 100vh;
+}

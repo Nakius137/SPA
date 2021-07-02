@@ -1,0 +1,11 @@
+.Contact-container {
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family:  Helvetica, sans-serif;
+    padding-top: 40px;
+    height: 275px;
+    position: relative;
+    top: 20vh;
+    clear: left;
+}
